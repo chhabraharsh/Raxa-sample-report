@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report xmlns="http://www.eclipse.org/birt/2005/design" version="3.2.23" id="1">
+    <list-property name="configVars">
+        <structure>
+            <property name="name">__isdisplay__UID_14_0</property>
+            <property name="value">1</property>
+        </structure>
+        <structure>
+            <property name="name">__isdisplay__DemoUid_29_1</property>
+            <property name="value">1</property>
+        </structure>
+        <structure>
+            <property name="name">UID_14_2</property>
+            <property name="value">1</property>
+        </structure>
+        <structure>
+            <property name="name">UID_14_type_</property>
+            <property name="value">string</property>
+        </structure>
+        <structure>
+            <property name="name">UID_14_expr_</property>
+            <property name="value">dataSetRow["uid"]</property>
+        </structure>
+        <structure>
+            <property name="name">DemoUid_29_3</property>
+            <property name="value">1</property>
+        </structure>
+        <structure>
+            <property name="name">DemoUid_29_type_</property>
+            <property name="value">integer</property>
+        </structure>
+        <structure>
+            <property name="name">DemoUid_29_expr_</property>
+            <property name="value">dataSetRow["uid"]</property>
+        </structure>
+    </list-property>
+</report>
